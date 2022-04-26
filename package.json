@@ -1,0 +1,32 @@
+{
+  "name": "app",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "deploy": "vite build && rm -rf /var/www/{appName}/* && mv dist/* /var/www/{appName}"
+  },
+  "dependencies": {
+    "axios": "latest",
+    "vue": "legacy",
+    "vue-class-component": "latest",
+    "vue-property-decorator": "latest",
+    "vue-router": "^3.5.2",
+    "vuetify": "latest",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@mdi/js": "latest",
+    "@types/node": "latest",
+    "@vue/runtime-dom": "latest",
+    "prettier": "latest",
+    "sass": "~1.32.13",
+    "typescript": "latest",
+    "vite": "latest",
+    "vite-plugin-components": "latest",
+    "vite-plugin-vue2": "latest",
+    "vue-template-compiler": "latest"
+  },
+  "packageManager": "yarn@3.2.0"
+}
