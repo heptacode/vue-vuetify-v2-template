@@ -1,5 +1,12 @@
 # Vue 2 + Vuetify 2 + TypeScript + Vite Template ⚡️
 
+![Yarn Berry](https://img.shields.io/badge/Yarn_Berry-282C34.svg?&style=for-the-badge&logo=yarn)
+![Vite](https://img.shields.io/badge/vite-282C34.svg?&style=for-the-badge&logo=vite)
+![TypeScript](https://img.shields.io/badge/TypeScript-282C34.svg?&style=for-the-badge&logo=typescript)
+![Vue 2](https://img.shields.io/badge/vue_2-282C34.svg?&style=for-the-badge&logo=vue.js)
+![Vuetify 2](https://img.shields.io/badge/Vuetify_2-282C34.svg?&style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
+![SCSS](https://img.shields.io/badge/SCSS-282C34.svg?&style=for-the-badge&logo=sass)
+
 ## Installation
 
 1. Install recommended VSCode extensions (.vscode/extensions.json)
