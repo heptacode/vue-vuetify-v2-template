@@ -25,6 +25,7 @@
 
 - `yarn build`
 
-## Issues
+## Contributing
 
 - [Issues](https://github.com/heptacode/vue-vuetify-v2-template/issues)
+- [Fork](https://github.com/heptacode/vue-vuetify-v2-template/fork)
