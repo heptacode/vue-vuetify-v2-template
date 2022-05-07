@@ -1,9 +1,9 @@
 {
   "recommendations": [
-    "christian-kohler.npm-intellisense",
+    "arcanis.vscode-zipfs",
     "esbenp.prettier-vscode",
-    "johnsoncodehk.volar",
-    "johnsoncodehk.vscode-typescript-vue-plugin",
-    "arcanis.vscode-zipfs"
+    "vue.volar",
+    "vue.vscode-typescript-vue-plugin",
+    "christian-kohler.npm-intellisense"
   ]
 }
